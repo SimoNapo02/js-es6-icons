@@ -1,4 +1,6 @@
-[
+// array di base
+
+const icone = [
 	{
 		name: 'cat',
 		prefix: 'fa-',
@@ -112,3 +114,7 @@
 		color: 'blue'
 	}
 ];
+
+// Milestone 1
+// Partendo dalla struttura dati fornita, visualizzare in pagina un box per ogni icona, in cui è presente il nome dell'icona e l'icona stessa.
+
